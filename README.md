@@ -1,7 +1,7 @@
-# 👋 Hi, I’m @Mohan06007
-- 👀 I have a strong interest in **DevOps Engineering**, **AI/ML**, and **Ethical Hacking**.
-- 🌱 I’m currently focused on mastering **AWS DevOps** and continuously enhancing my cloud and automation skills.
-- 🤝 I’m open to collaborating on **DevOps projects**, **AI/ML research**, and **cloud-based innovations**.
-- 📫 Feel free to reach out to me at [mohanakrishnan707@gmail.com](mailto:mohanakrishnan707@gmail.com).
+# 👋 Hi, I’m Mohanakrishnan
+- 👀 I’m passionate about **DevOps Engineering**, **AI/ML**, and **Cybersecurity/Ethical Hacking**.
+- 🌱 Currently deepening my expertise in **AWS DevOps**, focusing on cloud infrastructure, automation, and continuous integration/delivery (CI/CD).
+- 🤝 I’m actively looking to collaborate on innovative **DevOps** and **AI/ML** projects that drive automation and scalability.
+- 📫 You can reach me via email at [mohanakrishnan707@gmail.com](mailto:mohanakrishnan707@gmail.com).
 - 🔧 Pronouns: He/Him
-- ⚡ Fun fact: I’m passionate about exploring cutting-edge technology trends and implementing them in real-world projects.
+- ⚡ Fun fact: I love staying on the cutting edge of technology and enjoy solving complex problems through automation and cloud-based solutions.
