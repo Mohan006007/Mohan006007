@@ -11,4 +11,7 @@
 - **🌟 [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/a2651672-6477-4887-9a53-8aec2b6f3a9d)** 
 - **🌟 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/eafc408e-4201-409c-819e-a10348c26e62)** 
 - **🌟 [AWS re/Start Graduate](https://www.credly.com/badges/9962f06a-c4bc-4cb0-b5a9-70f5caee4415)**
+- **🌟 [AWS Partner: Technical Accredited](https://www.credly.com/badges/1bbce908-2ba6-40df-a0fc-68c993a20131)**
+- **🌟 [AWS Partner: Accreditation (Business)](https://www.credly.com/badges/b4a2f001-ad40-46af-9107-c1cc840b181b)**
+- **🌟 [AWS Partner: Cloud Economics Essentials](https://www.credly.com/badges/39911964-7cb0-49b5-87bb-94e571cd9730)**
 
