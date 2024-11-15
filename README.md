@@ -10,17 +10,21 @@
 
 Here are some of the technologies I learn with:
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![Ansible](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)
+[![Kali Linux](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
+
 
 ## 🏆 Certifications
 - **🌟 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4a3499e7-e376-46e3-9485-3212278507cf)** 
